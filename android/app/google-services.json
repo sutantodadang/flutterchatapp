@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "498146931349",
+    "project_id": "flutterchatapp-fabae",
+    "storage_bucket": "flutterchatapp-fabae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498146931349:android:a577d8225fefa44c72219c",
+        "android_client_info": {
+          "package_name": "com.glints.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498146931349-67pt1g6baudf7f5rqpaoti1c55271886.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.glints.chatapp",
+            "certificate_hash": "526d8581af543baab3a28a10df3e367075796430"
+          }
+        },
+        {
+          "client_id": "498146931349-mi0gsksugjm3vcov7rh81agn3cnc1pio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA8jieZKPVQD_Xg64KHPHGZ7DvyTUsz-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498146931349-mi0gsksugjm3vcov7rh81agn3cnc1pio.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
